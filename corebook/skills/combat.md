@@ -56,9 +56,11 @@ Use: Unarmed Combat is almost always used as a standard opposing check, though w
 **Opposing skills:** A character defending against an opponent using Unarmed Combat can use whatever approach they wish - be it with dodging (Dodge), mêlée weapons (Mêlée Weapons) or another Unarmed Combat roll.
 
 **Modifiers:** Unarmed Combat Techniques (cf. Chapter Five, Abilities & Traits and Chapter Seven, Combat) are used to modify Unarmed Combat rolls.
+
 {{% example %}}
 Example: Franz (Constitution 4, Unarmed Combat 6) is faced with yet another ill-advised fisticuffs. He Charges 2 meters toward his opponent - a 3 AP action - and brandishes his fists. Taking a heavy swing (4 AP), he rolls 3, adds Unarmed Combat (for a total of 9) and Constitution modifier (for a total of 8) and hopes for the best.
 {{% /example %}}
+
 # Mêlée Combat
 Mêlée Combat governs a character's ability to effectively use edged weapons - swords, spears, axes, knives - and blunt weapons - maces, clubs - in combat. While mêlée weapons have largely fallen out of popular use by the time of the Refuge Role-Playing Game, many are still in use by the impoverished, the desperate and those who favor engaging targets with an advantage in close quarters.
 

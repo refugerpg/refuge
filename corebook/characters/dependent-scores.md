@@ -26,6 +26,8 @@ Nearly all skill rolls are performed by rolling 1d10 and adding a character’s 
 
 # Traits
 Traits are the more character-centric counterpart to Abilities. While usually conferring bonuses to skill rolls and to characters in the situations they encounter, Traits can also be used to adopt non-class skills as class skills.
+
 The number of traits a character acquires is based on his or her class’s Trait score, as well as his or her Perception score.
 
 # Morale
+Morale reflects a character's ability to contribute effectively to a team. High morale characters may be natural, charismatic leaders, while low-morale characters might be stony lone-wolves or constantly bicker. A team's morale is calculated by adding together its characters' morale scores — that is compared to a target morale score (10 points per character), and the team receives bonuses or penalties for each 25% they depart from that ideal.

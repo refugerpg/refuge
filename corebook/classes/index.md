@@ -3,7 +3,7 @@ date: 2014-12-13T20:15:34-06:00
 draft: false
 toc: true
 title: Classes
-description: Characters of all persuasions.
+description: The heroes and villains of known space.
 ---
 
 Everyone has their own niche—things they prefer to do, given the choice. In the Refuge universe, this is no different. There are six base classes in Refuge—Soldier, Scout, Support, Techie, Spacer and Ambassador. Each one of the base classes is most closely associated with one of the six character attributes, and the roles they play in the Refuge Role-Playing Game are tied to these strengths.
@@ -12,6 +12,7 @@ While these strengths and weaknesses can be reinforced by the class system, ther
 
 Upon completing quests or vanquishing foes, characters receive experience points that represent their relative level of accomplishment in their chosen field. A level-one Soldier has likely just graduated from basic training and has yet to see the front lines, while a level-twenty Soldier is a grizzled veteran, with a vast wealth of experience in his or her field.
 Given a certain level, finding the experience required uses the following formula:
+
 # Class characteristics
 Each class has a brief description of its role in a given campaign, and its relationship with the other character classes.
 
